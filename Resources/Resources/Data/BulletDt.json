@@ -1,0 +1,15 @@
+[
+{"Type":1,
+"Ack":100,
+"Img":"Image/Bullets/PB0_R.png"
+},
+{"Type":2,
+"Ack":50,
+"Img":"Image/Bullets/PB1_0.png"
+},
+{"Type":3,
+"Ack":100,
+"Img":"Image/Bullets/PB0_R.png"
+}
+
+]

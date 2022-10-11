@@ -1,0 +1,22 @@
+ {
+    "Plist": [
+        "Image/FlagZombie.plist",
+        "Image/FlagZombieAttack.plist",
+        "Image/Zombie.plist",
+        "Image/ZombieAttack.plist",
+        "Image/EnemyDeath.plist",
+        "Image/Peashooter.plist",
+        "Image/SnowPea.plist",
+        "Image/Sun.plist",
+        "Image/SunFlower.plist",
+        "Image/WallNut.plist",
+        "Image/Cards.plist"
+    ],
+    "Img": [
+        "FinalWave.png",
+        "LargeWave.png",
+        "fp_floor.png",
+        "fp_grass.png",
+        "fp_tag.png"
+    ]
+}

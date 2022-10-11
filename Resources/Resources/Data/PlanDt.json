@@ -1,0 +1,45 @@
+[
+    {
+        "ID": 1001,
+        "Hp": 200,
+        "Ack": 50,
+	"Score":100,
+        "Img": "Peashooter_0.png"
+    },
+    {
+        "ID": 1002,
+        "Hp": 200,
+        "Ack": 100,
+	"Score":175,
+        "Img": "SnowPea_0.png"
+    },
+	{
+	"ID":1003,
+	"Hp":200,
+	"Ack":100,
+	"Score":250,
+	"Img":"Threepeater_0.png"
+     },	
+    {
+	"ID":1004,
+	"Hp":3000,
+	"Ack":0,
+	"Score":50,
+	"Img":"WallNut_0.png"
+     },
+	{
+	"ID":1005,
+	"Hp":200,
+	"Ack":0,
+	"Score":50,
+	"Img":"SunFlower_0.png"
+     },
+	{
+	"ID":1006,
+	"Hp":200,
+	"Ack":0,
+	"Score":100,
+	"Img":"CherryBomb/CherryBomb_0.png"
+     }
+		
+]

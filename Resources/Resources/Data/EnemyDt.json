@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 2001,
+        "Hp": 1000,
+        "Ack": 50,
+        "Img": "Zombie_0.png"
+    },
+    {
+        "ID": 2002,
+        "Hp": 1500,
+        "Ack": 100,
+        "Img": "FlagZombie_0.png"
+    },
+	{
+        "ID": 2003,
+        "Hp": 2000,
+        "Ack": 100,
+        "Img": "Pole/PoleVaultingZombie_0.png"
+    }
+]

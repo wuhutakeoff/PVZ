@@ -1,0 +1,32 @@
+[
+    {
+        "Type": 1,
+	"Score":100,
+        "Img": "Card1.png"
+    },
+    {
+        "Type": 2,
+	"Score":175,
+        "Img": "Card2.png"
+    },
+	{
+        "Type": 3,
+	"Score":250,
+        "Img": "Card3.png"
+    },
+	{
+        "Type": 4,
+	"Score":50,
+        "Img": "Card4.png"
+    },
+    {
+        "Type": 5,
+	"Score":50,
+        "Img": "Card5.png"
+    },
+    {
+        "Type": 6,
+	"Score":100,
+        "Img": "Card6.png"
+    }
+]

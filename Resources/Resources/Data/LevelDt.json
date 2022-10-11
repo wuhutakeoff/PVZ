@@ -1,0 +1,18 @@
+[
+    {
+        "Level": 1,
+        "NumberCount1": 10,
+	"NumberCount2": 20,
+	"NumberCount3": 20,
+	"NumberCount4": 30,
+        "Map": "Image/TiledMap.tmx"
+    },
+    {
+        "Level": 2,
+        "NumberCount1": 6,
+	"NumberCount2": 10,
+	"NumberCount3": 10,
+	"NumberCount4": 20,
+        "Map": "Image/TiledMap.tmx"
+    }
+]

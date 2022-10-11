@@ -1,0 +1,4 @@
+{
+	"name":["LevelDtMgr","PlantDtMgr","ZombiesDtMgr"],
+	"path":["data/LevelDt.json","data/PlantDt.json","data/ZombiesDt.json"]
+}

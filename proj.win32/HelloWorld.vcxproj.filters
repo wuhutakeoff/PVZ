@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\data">
+      <UniqueIdentifier>{9eb7b436-8df6-4cf7-bfef-855e7e22b4d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu">
+      <UniqueIdentifier>{c036987d-a311-48c2-9471-92e70a47e461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\common">
+      <UniqueIdentifier>{75bbca6a-614e-45b4-b48a-7d426b73e9a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game">
+      <UniqueIdentifier>{9374d910-3ab8-4b8d-9e43-95e31b180874}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\logo">
+      <UniqueIdentifier>{f48dd4b3-8c11-4702-99d3-4b3d74f52f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\layer">
+      <UniqueIdentifier>{75f79946-cc9f-4b12-9369-2a0aa753597a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\layer">
+      <UniqueIdentifier>{4ca238b7-4c22-40bf-9ed9-8b41e26603d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\object">
+      <UniqueIdentifier>{d1938906-f7a7-4367-b880-612536665e01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game\manager">
+      <UniqueIdentifier>{adeb80e1-adf5-4bb3-8d3b-d66359308611}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataBase.cpp">
+      <Filter>src\data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataMgr.cpp">
+      <Filter>src\data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataStruct.cpp">
+      <Filter>src\data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMenu.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Tool.cpp">
+      <Filter>src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLogo.cpp">
+      <Filter>src\logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLoading.cpp">
+      <Filter>src\logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLevel.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OptionLayer.cpp">
+      <Filter>src\menu\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlantsMenu.cpp">
+      <Filter>src\game\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Plant.cpp">
+      <Filter>src\game\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Bullet.cpp">
+      <Filter>src\game\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Zombie.cpp">
+      <Filter>src\game\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BulletLayer.cpp">
+      <Filter>src\game\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ZombieMgr.cpp">
+      <Filter>src\game\manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LevelSelect.cpp">
+      <Filter>src\menu\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UserMenu.cpp">
+      <Filter>src\menu\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TiledMapCtrl.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PlantsLayer.cpp">
+      <Filter>src\game\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UILayer.cpp">
+      <Filter>src\game\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpLayer.cpp">
+      <Filter>src\menu\layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TrolleyLayer.cpp">
+      <Filter>src\game\layer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataBase.h">
+      <Filter>src\data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataMgr.h">
+      <Filter>src\data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataStruct.h">
+      <Filter>src\data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMenu.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Tool.h">
+      <Filter>src\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLogo.h">
+      <Filter>src\logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLoading.h">
+      <Filter>src\logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLevel.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OptionLayer.h">
+      <Filter>src\menu\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlantsMenu.h">
+      <Filter>src\game\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Plant.h">
+      <Filter>src\game\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Bullet.h">
+      <Filter>src\game\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Zombie.h">
+      <Filter>src\game\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BulletLayer.h">
+      <Filter>src\game\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ZombieMgr.h">
+      <Filter>src\game\manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LevelSelect.h">
+      <Filter>src\menu\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UserMenu.h">
+      <Filter>src\menu\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TiledMapCtrl.h">
+      <Filter>src\game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PlantsLayer.h">
+      <Filter>src\game\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UILayer.h">
+      <Filter>src\game\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpLayer.h">
+      <Filter>src\menu\layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TrolleyLayer.h">
+      <Filter>src\game\layer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

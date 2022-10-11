@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="16" height="7" tilewidth="83" tileheight="83" nextobjectid="1">
+ <tileset firstgid="1" name="PVZBackground_3" tilewidth="83" tileheight="83" tilecount="112" columns="16">
+  <image source="Background/PVZBackground_3.jpg" width="1400" height="600"/>
+ </tileset>
+ <layer name="Bg" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJyNzydvgmEAhdGPvbcGCtVlarZm67Kq2/L/FYcETd6bHPmIG4uiKE6CJCnSZMiSI0+BIiXKVKhSo06D9RuxlyYt2nzQoctnFLYvevQZMGTEOLCfMGXGnAVLVoH988uGLTv2HDgG9t+cOHPhyo2fwP6XP/658wDNyw1W
+  </data>
+ </layer>
+ <layer name="path1" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwWYEYHRAQBGGAHn
+  </data>
+ </layer>
+ <layer name="path2" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1ALSRGBqAwBgrAD0
+  </data>
+ </layer>
+ <layer name="path3" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMGBGBB5sAAA5JwHn
+  </data>
+ </layer>
+ <layer name="path4" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg+QJoIPNwAANosAPQ=
+  </data>
+ </layer>
+ <layer name="path5" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg8QJQIPApQAQDZVAC+
+  </data>
+ </layer>
+ <layer name="CardPath" width="16" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAeYMSDRwFtAAALmAAI
+  </data>
+ </layer>
+</map>

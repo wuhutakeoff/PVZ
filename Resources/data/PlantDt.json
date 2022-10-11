@@ -1,0 +1,77 @@
+[{
+		"id": 3001,
+		"name": "PeaShooter",
+		"animPath": ["PeaShooter_0.png", "PeaShooter_1.png", "PeaShooter_2.png", "PeaShooter_3.png", "PeaShooter_4.png", "PeaShooter_5.png",
+			"PeaShooter_6.png", "PeaShooter_7.png", "PeaShooter_8.png", "PeaShooter_9.png", "PeaShooter_10.png", "PeaShooter_11.png",
+			"PeaShooter_12.png"
+		],
+		"type":"attack",
+		"bulletPath":"Resources/Image/Bullets/PB0_R.png",
+		"value":100,
+		"damage":100,
+		"HP":1000
+	},
+	{
+		"id": 3002,
+		"name": "SunFlower",
+		"animPath": ["SunFlower_0.png", "SunFlower_1.png", "SunFlower_2.png", "SunFlower_3.png", "SunFlower_4.png", "SunFlower_5.png",
+			"SunFlower_6.png", "SunFlower_7.png", "SunFlower_8.png", "SunFlower_9.png", "SunFlower_10.png", "SunFlower_11.png",
+			"SunFlower_12.png", "SunFlower_13.png", "SunFlower_14.png", "SunFlower_15.png", "SunFlower_16.png", "SunFlower_17.png"
+		],
+		"type":"producte",
+		"bulletPath":"none",
+		"value":50,
+		"damage":0,
+		"HP":1000
+	},
+	{
+		"id": 3003,
+		"name": "SnowPea",
+		"animPath": ["SnowPea_0.png", "SnowPea_1.png", "SnowPea_2.png", "SnowPea_3.png", "SnowPea_4.png", "SnowPea_5.png", "SnowPea_6.png",
+			"SnowPea_7.png", "SnowPea_8.png", "SnowPea_9.png", "SnowPea_10.png", "SnowPea_11.png", "SnowPea_12.png", "SnowPea_13.png",
+			"SnowPea_14.png"
+		],
+		"type":"attack",
+		"bulletPath":"Resources/Image/Bullets/PB1_0.png",
+		"value":175,
+		"damage":150,
+		"HP":1000
+	},
+	{
+		"id":3004,
+		"name":"WallNut",
+		"animPath":["WallNut_0.png","WallNut_1.png","WallNut_2.png","WallNut_3.png","WallNut_4.png","WallNut_5.png","WallNut_6.png","WallNut_7.png",
+			"WallNut_8.png","WallNut_9.png","WallNut_10.png","WallNut_11.png","WallNut_12.png","WallNut_13.png","WallNut_14.png","WallNut_15.png"
+		],
+		"type":"defense",
+		"bulletPath":"none",
+		"value":50,
+		"damage":0,
+		"HP":1000
+	},
+	{
+		"id":3005,
+		"name":"CherryBomb",
+		"animPath":["CherryBomb_0.png","CherryBomb_1.png","CherryBomb_2.png","CherryBomb_3.png","CherryBomb_4.png","CherryBomb_5.png",
+				"CherryBomb_6.png","CherryBomb_7.png"
+		],
+		"type":"consume",
+		"bulletPath":"none",
+		"value":150,
+		"damage":100000,
+		"HP":10000
+	},
+	{
+		"id":3006,
+		"name":"Threepeater",
+		"animPath":["Threepeater_0.png","Threepeater_1.png","Threepeater_2.png","Threepeater_3.png","Threepeater_4.png","Threepeater_5.png","Threepeater_6.png",
+			"Threepeater_7.png","Threepeater_8.png","Threepeater_9.png","Threepeater_10.png","Threepeater_11.png","Threepeater_12.png","Threepeater_13.png",
+			"Threepeater_14.png","Threepeater_15.png"
+		],
+		"type":"attack",
+		"bulletPath":"Resources/Image/Bullets/PB0_R.png",
+		"value":325,
+		"damage":100,
+		"HP":1000
+	}
+]

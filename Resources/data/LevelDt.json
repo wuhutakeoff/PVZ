@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1001,
+		"img": "Resources/Image/Background/PVZBackground_1.jpg",
+		"tmx": "TiledMap/background_1.tmx",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1002,
+		"img": "Resources/Image/Background/PVZBackground_2.jpg",
+		"tmx": "TiledMap/background_2.tmx",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1003,
+		"img": "Resources/Image/Background/PVZBackground_3.jpg",
+		"tmx": "TiledMap/background_3.tmx",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1004,
+		"img": "Resources/Image/Background/PVZBackground_4.jpg",
+		"tmx": "TiledMap/background_4.tmx",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1005,
+		"img": "Resources/Image/Background/PVZBackground_5.jpg",
+		"tmx": "TiledMap/background_4.tmx",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1006,
+		"img": "Resources/Image/Background/PVZBackground_6.jpg",
+		"tmx":"",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1007,
+		"img": "Resources/Image/Background/PVZBackground_7.jpg",
+		"tmx":"",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	},
+	{
+		"id": 1008,
+		"img": "Resources/Image/Background/PVZBackground_8.jpg",
+		"tmx":"",
+		"wave":[5,5,5],
+		"enemyID":[3001,3001,3001,3001,3002]
+	}
+]
